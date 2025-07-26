@@ -1,5 +1,5 @@
 # 0xIIEST
-![image](media/banner.png)
+![image](../media/banner.png)
 
 ## What?
 This is an initiative to build and promote tools that solve problems within the **IIEST** college community, while also encouraging a culture of *Free and Open Source Software* (FOSS).
